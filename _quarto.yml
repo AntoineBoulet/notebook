@@ -11,7 +11,7 @@ website:
 metadata-files:
   - system/fragments/default-theme.yml
   - system/fragments/default-website.yml
-  - system/fragments/main-navbar-fr.yml
+  - system/fragments/main-navbar-en.yml
   - system/fragments/lang-en.yml
   - system/fragments/main-header.yml
   - system/fragments/notebook-header.yml
