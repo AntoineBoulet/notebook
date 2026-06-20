@@ -1,0 +1,26 @@
+---
+title: "Research Notebook"
+subtitle: Working notes, ideas, and research in progress.
+listing:
+  id: list-of-posts
+
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: table
+  categories: true
+  #sort-ui: true
+  #filter-ui: true
+page-layout: full
+title-block-banner: true
+
+css: system/styles/listing.css
+---
+
+This research notebook is a space for open and ongoing inquiry. It contains working notes, research ideas, methodological reflections, preliminary findings, and exploratory analyses. Entries are shared in the spirit of open scholarship: they document research in progress rather than finalized results. 
+
+> ***This research notebook is a work in progress. New notes, ideas, and exploratory analyses will be added over time.***
+
+::: {#list-of-posts style="display:none;"}
+:::
+

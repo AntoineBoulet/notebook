@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+
+website: 
+  navbar: 
+    right: 
+      - text: "**notebook**"
+        href: /
+
+metadata-files:
+  - system/fragments/default-theme.yml
+  - system/fragments/default-website.yml
+  - system/fragments/main-navbar-fr.yml
+  - system/fragments/lang-en.yml
+  - system/fragments/main-header.yml
+  - system/fragments/notebook-header.yml
+  - system/fragments/notebook-theme.yml
